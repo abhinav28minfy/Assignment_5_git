@@ -12,3 +12,9 @@ Similarly the other collaberator, did the same and started working on another fe
 After completing his work he merged his branch with the master branch and pushed it.
 Once my feature was complete, I pulled his changes from the git repository, followed by merging my own branch to the master branch.
 
+
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+
+the above 3 images are added by Himaghna
